@@ -1,0 +1,11 @@
+.navbar-brand{
+    display: block !important;
+    font-size: 10px !important;
+    padding-right: 10% !important;
+    color:whitesmoke !important;
+}
+
+.nav-link{
+    color:whitesmoke !important;
+}
+
